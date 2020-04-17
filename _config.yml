@@ -14,11 +14,11 @@ defaults:
     values:
       image: true
 
-title: hxc
-name: hxc
-description: 
+title: coconut
+name: coconut
+description: 在盛夏盛开的椰子树
 
-github: https://github.com/huangxinchun/
+github: https://github.com/hi-yee
 rss: true
 
 plugins:
