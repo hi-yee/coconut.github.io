@@ -1,0 +1,36 @@
+sass:
+  style: compressed
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "assets/img"
+    values:
+      image: true
+
+title: hxc
+name: hxc
+description: 
+
+github: https://github.com/huangxinchun/
+rss: true
+
+plugins:
+  - rouge
+  - kramdown
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jemoji
+
+exclude:
+  - script
+  - docs
+  - vendor
+  - Gemfile
+  - Gemfile.lock
