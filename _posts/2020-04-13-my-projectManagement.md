@@ -6,6 +6,7 @@ date:       2020-04-18              # 时间
 author:     coconut                      # 作者
 header-img:    #这篇文章标题背景图片
 catalog: true                       # 是否归档
+categories: 项目管理
 tags:                               #标签
     - 学习
 ---
@@ -16,4 +17,4 @@ tags:                               #标签
 
 ##第二章
 
-
+![图片](https://hi-yee.github.io/coconut-blog/images/imagesProjectManagement/shiwu_1.png)
